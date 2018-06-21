@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box
+}
+
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: #EEEEEE;
+    height: 100%
+}
+
+body {
+    margin: 0;
+    font-size: 16px;
+    font-family: sans-serif;
+    line-height: 1.5;
+    color: #222222;
+    font-weight: 400;
+    position: relative;
+    overflow-x: hidden;
+    padding: 0;
+    min-height: 100%
+}
+
+blockquote,
+figure,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ol,
+p,
+ul {
+    font-weight: 500;
+    margin: 0;
+    padding: 0;
+}
+
+.page {
+    padding: 1em 2em;
+}
+
+.thing {
+    margin-bottom: 1rem;
+}
